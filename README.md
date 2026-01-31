@@ -6,7 +6,7 @@ Based in **Srinagar, Kashmir**, I am an AI Engineer who treats code as a craft. 
 ### 🧠 My Philosophy
 > "An AI model without a robust pipeline is just a toy. I build production-ready systems where agents plan, reason, and execute."
 
-[cite_start]I specialize in **Generative AI** and **Agentic Workflows**[cite: 6]. [cite_start]While many peers are still figuring out prompts, I am building **Hybrid RAG pipelines** [cite: 18] [cite_start]and **Autonomous Agents** that can think through tasks using Chain-of-Thought reasoning.
+I specialize in **Generative AI** and **Agentic Workflows**.While many peers are still figuring out prompts, I am building **Hybrid RAG pipelines** and **Autonomous Agents** that can think through tasks using Chain-of-Thought reasoning.
 
 ---
 
@@ -58,9 +58,9 @@ I don't believe in stagnation. Currently, I am:
 * ⚡ **Refining:** My Docker optimization skills for smaller container footprints.
 
 ### 🤝 Let's Build Something?
-[cite_start]I am looking for a challenging role in **AI Engineering** where I can break things, fix them, and make them smarter[cite: 9].
+I am looking for a challenging role in **AI Engineering** where I can break things, fix them, and make them smarter.
 
-* [**LinkedIn (aaqidhilal)**](https://www.linkedin.com/in/aaqidhilal)
+* [**LinkedIn (aaqidhilal)**](https://www.linkedin.com/in/aaqidhilal/)
 * **Email:** aaqidget@gmail.com
 
 <!--
