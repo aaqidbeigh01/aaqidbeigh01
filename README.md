@@ -37,11 +37,11 @@ I believe in choosing the right tool for the job. Here is what I use to bring id
 * **The Solution:** An autonomous agent using **Chain-of-Thought (CoT)** reasoning. It plans a task, executes it, verifies the output, and *then* responds.
 * **The "Wow" Factor:** Used **Pydantic** for strict data validation (no broken JSON!) and integrated real-time weather & crypto APIs.
 
-#### 3. Protecting the Digital Perimeter 🛡️
-**Project:** [Phishing Detection System]([Link to Repo](https://github.com/aaqidbeigh01/Network_Security_Phishing_Detection))
-* **The Problem:** Cyber threats are evolving faster than manual filters.
-* **The Solution:** An ML system identifying malicious URLs with **95% accuracy**.
-* **The "Wow" Factor:** A production-ready API with robust logging and exception handling—not just a Jupyter notebook.
+#### 3. Decoding Academic Success 🎓
+**Project:** [Student Performance Predictor]([Link to Repo](https://github.com/aaqidbeigh01/Student-Performance-Prediction))
+* **The Problem:** Understanding exactly how real world factors like lunch plans and parental education impact a student's grades before the test even happens.
+* **The Solution:** An end to end ML pipeline that predicts math scores with an 85% R² score based on demographic data.**.
+* **The "Wow" Factor:** Built as a fully modular, pip-installable Python package with custom logging, exception handling, and a live Flask web app far beyond a standard Jupyter notebook.
 
 #### 4. Seeing the Invisible (Air Quality) 📉
 **Project:** [AQI Forecasting System]([Link to Repo](https://github.com/aaqidbeigh01/Air_Quality_Forecasting_System))
